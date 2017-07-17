@@ -1,4 +1,5 @@
 var assert = require('assert');
+var mathModule = require('../src/mathModule');
 
 var test_addition_of_two_values = function () {
     var sum = mathModule.add(1, 3);
