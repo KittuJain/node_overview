@@ -1,0 +1,12 @@
+html
+    title Node Overview
+    link(href="stylesheet/style.css", rel='stylesheet')
+    body
+        h1 Users list
+        table
+            th Name
+            th Age
+            each user in users
+                tr
+                td #{user.name}
+                td #{user.age}
