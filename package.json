@@ -1,0 +1,27 @@
+{
+  "name": "node_overview",
+  "version": "1.0.0",
+  "description": "A simple node web app",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KittuJain/node_overview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KittuJain/node_overview/issues"
+  },
+  "homepage": "https://github.com/KittuJain/node_overview#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0",
+    "nodemon": "^1.11.0"
+  }
+}
