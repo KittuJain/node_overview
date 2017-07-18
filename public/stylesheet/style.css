@@ -14,3 +14,14 @@ table, td, th {
 table {
     margin: 6% 0 0 46%;
 }
+
+input {
+    display: block;
+    margin: 0 0 10px 625px;
+    height: 30px;
+    width: 200px;
+}
+
+a {
+    display: block;
+}
